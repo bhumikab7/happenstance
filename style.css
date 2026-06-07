@@ -247,7 +247,7 @@ border: 1px solid rgba(249, 247, 247, 0.3);
  }
  .container-card video
  {
-    height: 400px;
+    height: 100%;
     width: 100%;
     border-radius: 10px;
  }
